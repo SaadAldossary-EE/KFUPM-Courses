@@ -7,3 +7,5 @@ This folder contains the course project completed for COE292 at KFUPM.
 - Classification
 - Data Analysis
 - AI Fundamentals
+## Demo Video
+https://www.youtube.com/watch?v=35EA_f0YlfI
