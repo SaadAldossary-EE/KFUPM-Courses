@@ -7,5 +7,5 @@ This folder contains the course project and the assignments completed for COE292
 - Classification
 - Data Analysis
 - AI Fundamentals
-## Demo Video for the project
+## Project Demo Video
 [Watch the Project Demo](https://www.youtube.com/watch?v=35EA_f0YlfI)
