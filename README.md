@@ -1,3 +1,3 @@
-# KFUPM Courses
+# KFUPM Projects 
 
-A collection of coursework, labs, projects, and implementations from courses taken at King Fahd University of Petroleum and Minerals (KFUPM).
+A collection of projects, and implementations taken from courses at King Fahd University of Petroleum and Minerals (KFUPM).
