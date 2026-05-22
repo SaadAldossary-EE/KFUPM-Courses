@@ -1,3 +1,3 @@
 # KFUPM Projects 
 
-A collection of projects ,and implementations taken from courses at King Fahd University of Petroleum and Minerals (KFUPM).
+A collection of academic projects and implementations developed through courses at King Fahd University of Petroleum and Minerals (KFUPM).
